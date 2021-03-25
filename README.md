@@ -48,6 +48,10 @@ I'm *Rokib Hasan Sagar* - aka *fr3akyphantom*
 ### :zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/woahbase/alpine-base/pull/2) in [woahbase/alpine-base](https://github.com/woahbase/alpine-base)
+2. 🗣 Commented on [#4](https://github.com/rokibhasansagar/slimhub_actions/issues/4) in [rokibhasansagar/slimhub_actions](https://github.com/rokibhasansagar/slimhub_actions)
+3. 🗣 Commented on [#4](https://github.com/rokibhasansagar/slimhub_actions/issues/4) in [rokibhasansagar/slimhub_actions](https://github.com/rokibhasansagar/slimhub_actions)
+<!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats</summary>
 
