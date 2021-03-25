@@ -1,6 +1,5 @@
-## Hi there 👋
-
-I'm *Rokib Hasan Sagar* - aka *fr3akyphantom*
+## Hi there 👋, I'm *Rokib Hasan Sagar* - aka *fr3akyphantom*
+> A passionate developer from Bangladesh
 
 ### I'm Currently an Ex-student, Semi-geek Tech-lover; and a Quick Learner
 
@@ -43,9 +42,7 @@ I'm *Rokib Hasan Sagar* - aka *fr3akyphantom*
 <br />
 <br />
 
----
-
-### :zap: Recent GitHub Activity</summary>
+### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2](https://github.com/woahbase/alpine-base/pull/2) in [woahbase/alpine-base](https://github.com/woahbase/alpine-base)
@@ -53,9 +50,17 @@ I'm *Rokib Hasan Sagar* - aka *fr3akyphantom*
 3. 🗣 Commented on [#4](https://github.com/rokibhasansagar/slimhub_actions/issues/4) in [rokibhasansagar/slimhub_actions](https://github.com/rokibhasansagar/slimhub_actions)
 <!--END_SECTION:activity-->
 
-### :zap: GitHub Stats</summary>
+### ⚡ GitHub Stats
 
-<img align="left" alt="rokibhasansagar's GitHub Stats" src="https://github-readme-stats.rokibhasansagar.vercel.app/api?username=rokibhasansagar&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" />
+[<img alt="rokibhasansagar's GitHub Stats" src="https://github-readme-stats.rokibhasansagar.vercel.app/api?username=rokibhasansagar&show_icons=true&include_all_commits=true&count_private=true&theme=merko" />](#)
+
+### 🏆 Github Profile Trophy
+
+[<img src="https://github-profile-trophy.vercel.app/?username=rokibhasansagar&theme=darkhub&no-bg=true&row=1" alt="rokibhasansagar" />](#)
+
+### 🔥 Github Streak Stats
+
+[<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rokibhasansagar&theme=tokyonight_duo" alt="rokibhasansagar" />](#)
 
 [website]: https://rokibhasansagar.github.io
 [linkedin]: https://www.linkedin.com/in/rokib-hasan-9a031a20a
