@@ -43,6 +43,21 @@ I'm *Rokib Hasan Sagar* - aka *fr3akyphantom*
 <br />
 <br />
 
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+  <!--START_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="rokibhasansagar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rokibhasansagar&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" />
+
+</details>
 
 [website]: https://rokibhasansagar.github.io
 [linkedin]: https://www.linkedin.com/in/rokib-hasan-9a031a20a
