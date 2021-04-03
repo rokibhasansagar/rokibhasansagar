@@ -45,8 +45,8 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/SmPriyo/gsibot/pull/1) in [SmPriyo/gsibot](https://github.com/SmPriyo/gsibot)
-2. 💪 Opened PR [#2](https://github.com/woahbase/alpine-base/pull/2) in [woahbase/alpine-base](https://github.com/woahbase/alpine-base)
+1. 🎉 Merged PR [#2](https://github.com/Area69Lab/macOS-SSH/pull/2) in [Area69Lab/macOS-SSH](https://github.com/Area69Lab/macOS-SSH)
+2. 💪 Opened PR [#1](https://github.com/SmPriyo/gsibot/pull/1) in [SmPriyo/gsibot](https://github.com/SmPriyo/gsibot)
 3. 🗣 Commented on [#4](https://github.com/rokibhasansagar/slimhub_actions/issues/4) in [rokibhasansagar/slimhub_actions](https://github.com/rokibhasansagar/slimhub_actions)
 <!--END_SECTION:activity-->
 
