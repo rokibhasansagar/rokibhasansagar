@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/rokibhasansagar/TGMirrorLooper/pull/1) in [rokibhasansagar/TGMirrorLooper](https://github.com/rokibhasansagar/TGMirrorLooper)
-2. 🗣 Commented on [#1](https://github.com/rokibhasansagar/TGMirrorLooper/issues/1) in [rokibhasansagar/TGMirrorLooper](https://github.com/rokibhasansagar/TGMirrorLooper)
-3. 🎉 Merged PR [#2](https://github.com/Area69Lab/macOS-SSH/pull/2) in [Area69Lab/macOS-SSH](https://github.com/Area69Lab/macOS-SSH)
+1. ❗️ Opened issue [#65](https://github.com/ParveenBhadooOfficial/Google-Drive-Index/issues/65) in [ParveenBhadooOfficial/Google-Drive-Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
+2. ❌ Closed PR [#1](https://github.com/rokibhasansagar/TGMirrorLooper/pull/1) in [rokibhasansagar/TGMirrorLooper](https://github.com/rokibhasansagar/TGMirrorLooper)
+3. 🗣 Commented on [#1](https://github.com/rokibhasansagar/TGMirrorLooper/issues/1) in [rokibhasansagar/TGMirrorLooper](https://github.com/rokibhasansagar/TGMirrorLooper)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
