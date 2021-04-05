@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/bkerler/oppo_decrypt/issues/31) in [bkerler/oppo_decrypt](https://github.com/bkerler/oppo_decrypt)
-2. ❗️ Opened issue [#65](https://github.com/ParveenBhadooOfficial/Google-Drive-Index/issues/65) in [ParveenBhadooOfficial/Google-Drive-Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
-3. ❌ Closed PR [#1](https://github.com/rokibhasansagar/TGMirrorLooper/pull/1) in [rokibhasansagar/TGMirrorLooper](https://github.com/rokibhasansagar/TGMirrorLooper)
+1. 🗣 Commented on [#1](https://github.com/Area69Lab/ofp-decrypter/issues/1) in [Area69Lab/ofp-decrypter](https://github.com/Area69Lab/ofp-decrypter)
+2. 🗣 Commented on [#1](https://github.com/Area69Lab/ofp-decrypter/issues/1) in [Area69Lab/ofp-decrypter](https://github.com/Area69Lab/ofp-decrypter)
+3. 💪 Opened PR [#1](https://github.com/Area69Lab/ofp-decrypter/pull/1) in [Area69Lab/ofp-decrypter](https://github.com/Area69Lab/ofp-decrypter)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
