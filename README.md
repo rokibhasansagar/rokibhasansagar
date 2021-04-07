@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Area69Lab/ofp-decrypter/issues/1) in [Area69Lab/ofp-decrypter](https://github.com/Area69Lab/ofp-decrypter)
+1. 🗣 Commented on [#2](https://github.com/rokibhasansagar/TGMirrorLooper/issues/2) in [rokibhasansagar/TGMirrorLooper](https://github.com/rokibhasansagar/TGMirrorLooper)
 2. 🗣 Commented on [#1](https://github.com/Area69Lab/ofp-decrypter/issues/1) in [Area69Lab/ofp-decrypter](https://github.com/Area69Lab/ofp-decrypter)
-3. 💪 Opened PR [#1](https://github.com/Area69Lab/ofp-decrypter/pull/1) in [Area69Lab/ofp-decrypter](https://github.com/Area69Lab/ofp-decrypter)
+3. 🗣 Commented on [#1](https://github.com/Area69Lab/ofp-decrypter/issues/1) in [Area69Lab/ofp-decrypter](https://github.com/Area69Lab/ofp-decrypter)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
