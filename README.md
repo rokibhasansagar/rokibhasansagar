@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Area69Lab/Ubuntu-SSH/issues/4) in [Area69Lab/Ubuntu-SSH](https://github.com/Area69Lab/Ubuntu-SSH)
+1. 🗣 Commented on [#3](https://github.com/P3TERX/ssh2actions/issues/3) in [P3TERX/ssh2actions](https://github.com/P3TERX/ssh2actions)
 2. 🗣 Commented on [#4](https://github.com/Area69Lab/Ubuntu-SSH/issues/4) in [Area69Lab/Ubuntu-SSH](https://github.com/Area69Lab/Ubuntu-SSH)
-3. ❌ Closed PR [#6](https://github.com/rokibhasansagar/TGMirrorLooper/pull/6) in [rokibhasansagar/TGMirrorLooper](https://github.com/rokibhasansagar/TGMirrorLooper)
+3. 🗣 Commented on [#4](https://github.com/Area69Lab/Ubuntu-SSH/issues/4) in [Area69Lab/Ubuntu-SSH](https://github.com/Area69Lab/Ubuntu-SSH)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
