@@ -4,7 +4,7 @@
 ### I'm Currently an Ex-student, Semi-geek Tech-lover; and a Quick Learner
 
 - 🔭 I’m currently adjusting my hobbies with personal life 😐
-- 🌱 I’m currently learning evertyhing, literally 🤓
+- 🌱 I’m currently learning everything, literally 🤓
 - 👯 I’m looking to collaborate on projects of other developers/programmers
 - 🤔 I’m looking for help with any of my projects which are not efficient 🙁
 - 🥅 2021 Goals: Contribute more to Open Source projects; because, why not!
