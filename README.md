@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/Area69Lab/Ubuntu-SSH/issues/4) in [Area69Lab/Ubuntu-SSH](https://github.com/Area69Lab/Ubuntu-SSH)
-2. 🗣 Commented on [#4](https://github.com/Area69Lab/Ubuntu-SSH/issues/4) in [Area69Lab/Ubuntu-SSH](https://github.com/Area69Lab/Ubuntu-SSH)
-3. 🗣 Commented on [#3](https://github.com/P3TERX/ssh2actions/issues/3) in [P3TERX/ssh2actions](https://github.com/P3TERX/ssh2actions)
+1. 💪 Opened PR [#85](https://github.com/markus-perl/ffmpeg-build-script/pull/85) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
+2. ❗️ Closed issue [#4](https://github.com/Area69Lab/Ubuntu-SSH/issues/4) in [Area69Lab/Ubuntu-SSH](https://github.com/Area69Lab/Ubuntu-SSH)
+3. 🗣 Commented on [#4](https://github.com/Area69Lab/Ubuntu-SSH/issues/4) in [Area69Lab/Ubuntu-SSH](https://github.com/Area69Lab/Ubuntu-SSH)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
