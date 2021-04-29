@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#85](https://github.com/markus-perl/ffmpeg-build-script/pull/85) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
-2. ❗️ Closed issue [#4](https://github.com/Area69Lab/Ubuntu-SSH/issues/4) in [Area69Lab/Ubuntu-SSH](https://github.com/Area69Lab/Ubuntu-SSH)
-3. 🗣 Commented on [#4](https://github.com/Area69Lab/Ubuntu-SSH/issues/4) in [Area69Lab/Ubuntu-SSH](https://github.com/Area69Lab/Ubuntu-SSH)
+1. 🎉 Merged PR [#5](https://github.com/rokibhasansagar/h5ai/pull/5) in [rokibhasansagar/h5ai](https://github.com/rokibhasansagar/h5ai)
+2. 🎉 Merged PR [#3](https://github.com/rokibhasansagar/h5ai/pull/3) in [rokibhasansagar/h5ai](https://github.com/rokibhasansagar/h5ai)
+3. 🎉 Merged PR [#7](https://github.com/rokibhasansagar/udemy-downloader-gui/pull/7) in [rokibhasansagar/udemy-downloader-gui](https://github.com/rokibhasansagar/udemy-downloader-gui)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
