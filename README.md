@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/rokibhasansagar/ffmpeg-build-script/pull/1) in [rokibhasansagar/ffmpeg-build-script](https://github.com/rokibhasansagar/ffmpeg-build-script)
-2. 🎉 Merged PR [#5](https://github.com/rokibhasansagar/h5ai/pull/5) in [rokibhasansagar/h5ai](https://github.com/rokibhasansagar/h5ai)
-3. 🎉 Merged PR [#3](https://github.com/rokibhasansagar/h5ai/pull/3) in [rokibhasansagar/h5ai](https://github.com/rokibhasansagar/h5ai)
+1. ❌ Closed PR [#1](https://github.com/rokibhasansagar/ffmpeg-build-script/pull/1) in [rokibhasansagar/ffmpeg-build-script](https://github.com/rokibhasansagar/ffmpeg-build-script)
+2. 💪 Opened PR [#1](https://github.com/rokibhasansagar/ffmpeg-build-script/pull/1) in [rokibhasansagar/ffmpeg-build-script](https://github.com/rokibhasansagar/ffmpeg-build-script)
+3. 🎉 Merged PR [#5](https://github.com/rokibhasansagar/h5ai/pull/5) in [rokibhasansagar/h5ai](https://github.com/rokibhasansagar/h5ai)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
