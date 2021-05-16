@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#88](https://github.com/markus-perl/ffmpeg-build-script/pull/88) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
-2. ❌ Closed PR [#1](https://github.com/rokibhasansagar/ffmpeg-build-script/pull/1) in [rokibhasansagar/ffmpeg-build-script](https://github.com/rokibhasansagar/ffmpeg-build-script)
-3. 💪 Opened PR [#1](https://github.com/rokibhasansagar/ffmpeg-build-script/pull/1) in [rokibhasansagar/ffmpeg-build-script](https://github.com/rokibhasansagar/ffmpeg-build-script)
+1. 🗣 Commented on [#34](https://github.com/bkerler/oppo_decrypt/issues/34) in [bkerler/oppo_decrypt](https://github.com/bkerler/oppo_decrypt)
+2. 💪 Opened PR [#88](https://github.com/markus-perl/ffmpeg-build-script/pull/88) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
+3. ❌ Closed PR [#1](https://github.com/rokibhasansagar/ffmpeg-build-script/pull/1) in [rokibhasansagar/ffmpeg-build-script](https://github.com/rokibhasansagar/ffmpeg-build-script)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
