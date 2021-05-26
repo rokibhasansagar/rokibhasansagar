@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/ttyd-heroku/pull/1) in [rokibhasansagar/ttyd-heroku](https://github.com/rokibhasansagar/ttyd-heroku)
-2. 💪 Opened PR [#1](https://github.com/rokibhasansagar/ttyd-heroku/pull/1) in [rokibhasansagar/ttyd-heroku](https://github.com/rokibhasansagar/ttyd-heroku)
-3. ❗️ Opened issue [#142](https://github.com/ParveenBhadooOfficial/Google-Drive-Index/issues/142) in [ParveenBhadooOfficial/Google-Drive-Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
+1. 🎉 Merged PR [#3](https://github.com/rokibhasansagar/ttyd-heroku/pull/3) in [rokibhasansagar/ttyd-heroku](https://github.com/rokibhasansagar/ttyd-heroku)
+2. 💪 Opened PR [#3](https://github.com/rokibhasansagar/ttyd-heroku/pull/3) in [rokibhasansagar/ttyd-heroku](https://github.com/rokibhasansagar/ttyd-heroku)
+3. 🎉 Merged PR [#2](https://github.com/rokibhasansagar/ttyd-heroku/pull/2) in [rokibhasansagar/ttyd-heroku](https://github.com/rokibhasansagar/ttyd-heroku)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
