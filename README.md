@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/PH4NTOM-3NCOD3R/intelligent_dummy/pull/1) in [PH4NTOM-3NCOD3R/intelligent_dummy](https://github.com/PH4NTOM-3NCOD3R/intelligent_dummy)
-2. 💪 Opened PR [#1](https://github.com/PH4NTOM-3NCOD3R/intelligent_dummy/pull/1) in [PH4NTOM-3NCOD3R/intelligent_dummy](https://github.com/PH4NTOM-3NCOD3R/intelligent_dummy)
-3. 🎉 Merged PR [#3](https://github.com/rokibhasansagar/ttyd-heroku/pull/3) in [rokibhasansagar/ttyd-heroku](https://github.com/rokibhasansagar/ttyd-heroku)
+1. 🎉 Merged PR [#3](https://github.com/rokibhasansagar/ttyd-heroku/pull/3) in [rokibhasansagar/ttyd-heroku](https://github.com/rokibhasansagar/ttyd-heroku)
+2. 💪 Opened PR [#3](https://github.com/rokibhasansagar/ttyd-heroku/pull/3) in [rokibhasansagar/ttyd-heroku](https://github.com/rokibhasansagar/ttyd-heroku)
+3. 🎉 Merged PR [#2](https://github.com/rokibhasansagar/ttyd-heroku/pull/2) in [rokibhasansagar/ttyd-heroku](https://github.com/rokibhasansagar/ttyd-heroku)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
