@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/rokibhasansagar/ttyd-heroku/pull/3) in [rokibhasansagar/ttyd-heroku](https://github.com/rokibhasansagar/ttyd-heroku)
-2. 💪 Opened PR [#3](https://github.com/rokibhasansagar/ttyd-heroku/pull/3) in [rokibhasansagar/ttyd-heroku](https://github.com/rokibhasansagar/ttyd-heroku)
-3. 🎉 Merged PR [#2](https://github.com/rokibhasansagar/ttyd-heroku/pull/2) in [rokibhasansagar/ttyd-heroku](https://github.com/rokibhasansagar/ttyd-heroku)
+1. ❗️ Opened issue [#76](https://github.com/yash-dk/TorToolkit-Telegram/issues/76) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+2. 🗣 Commented on [#20](https://github.com/yash-dk/TorToolkit-Telegram/issues/20) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+3. 🎉 Merged PR [#3](https://github.com/rokibhasansagar/ttyd-heroku/pull/3) in [rokibhasansagar/ttyd-heroku](https://github.com/rokibhasansagar/ttyd-heroku)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
