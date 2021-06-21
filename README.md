@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/rokibhasansagar/rokibhasansagar/issues/1) in [rokibhasansagar/rokibhasansagar](https://github.com/rokibhasansagar/rokibhasansagar)
-2. ❗️ Opened issue [#76](https://github.com/yash-dk/TorToolkit-Telegram/issues/76) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
-3. 🗣 Commented on [#20](https://github.com/yash-dk/TorToolkit-Telegram/issues/20) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+1. 🗣 Commented on [#4](https://github.com/DroidDumps/phoenix_firmware_dumper/issues/4) in [DroidDumps/phoenix_firmware_dumper](https://github.com/DroidDumps/phoenix_firmware_dumper)
+2. 🗣 Commented on [#1](https://github.com/rokibhasansagar/rokibhasansagar/issues/1) in [rokibhasansagar/rokibhasansagar](https://github.com/rokibhasansagar/rokibhasansagar)
+3. ❗️ Opened issue [#76](https://github.com/yash-dk/TorToolkit-Telegram/issues/76) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
