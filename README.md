@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/PH4NTOM-3NCOD3R/SSIM_TestZ/pull/1) in [PH4NTOM-3NCOD3R/SSIM_TestZ](https://github.com/PH4NTOM-3NCOD3R/SSIM_TestZ)
-2. 🎉 Merged PR [#15](https://github.com/rokibhasansagar/torrent-web/pull/15) in [rokibhasansagar/torrent-web](https://github.com/rokibhasansagar/torrent-web)
-3. 🎉 Merged PR [#4](https://github.com/DroidDumps/phoenix_firmware_dumper/pull/4) in [DroidDumps/phoenix_firmware_dumper](https://github.com/DroidDumps/phoenix_firmware_dumper)
+1. 🎉 Merged PR [#1](https://github.com/PH4NTOM-3NCOD3R/SSIM_TestZ/pull/1) in [PH4NTOM-3NCOD3R/SSIM_TestZ](https://github.com/PH4NTOM-3NCOD3R/SSIM_TestZ)
+2. 💪 Opened PR [#1](https://github.com/PH4NTOM-3NCOD3R/SSIM_TestZ/pull/1) in [PH4NTOM-3NCOD3R/SSIM_TestZ](https://github.com/PH4NTOM-3NCOD3R/SSIM_TestZ)
+3. 🎉 Merged PR [#15](https://github.com/rokibhasansagar/torrent-web/pull/15) in [rokibhasansagar/torrent-web](https://github.com/rokibhasansagar/torrent-web)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
