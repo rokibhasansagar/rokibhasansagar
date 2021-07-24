@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/woahbase/alpine-base/issues/2) in [woahbase/alpine-base](https://github.com/woahbase/alpine-base)
-2. 🗣 Commented on [#2](https://github.com/woahbase/alpine-base/issues/2) in [woahbase/alpine-base](https://github.com/woahbase/alpine-base)
-3. 🎉 Merged PR [#1](https://github.com/PH4NTOM-3NCOD3R/SSIM_TestZ/pull/1) in [PH4NTOM-3NCOD3R/SSIM_TestZ](https://github.com/PH4NTOM-3NCOD3R/SSIM_TestZ)
+1. 💪 Opened PR [#96](https://github.com/markus-perl/ffmpeg-build-script/pull/96) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
+2. 🗣 Commented on [#90](https://github.com/markus-perl/ffmpeg-build-script/issues/90) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
+3. 🗣 Commented on [#2](https://github.com/woahbase/alpine-base/issues/2) in [woahbase/alpine-base](https://github.com/woahbase/alpine-base)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
