@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com/markus-perl/ffmpeg-build-script/issues/90) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
-2. 🗣 Commented on [#96](https://github.com/markus-perl/ffmpeg-build-script/issues/96) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
-3. 🗣 Commented on [#90](https://github.com/markus-perl/ffmpeg-build-script/issues/90) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
+1. 🗣 Commented on [#96](https://github.com/markus-perl/ffmpeg-build-script/issues/96) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
+2. 🗣 Commented on [#90](https://github.com/markus-perl/ffmpeg-build-script/issues/90) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
+3. 🗣 Commented on [#96](https://github.com/markus-perl/ffmpeg-build-script/issues/96) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
