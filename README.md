@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/yash-dk/TorToolkit-Telegram/issues/76) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+1. 🗣 Commented on [#104](https://github.com/markus-perl/ffmpeg-build-script/issues/104) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
 2. 🗣 Commented on [#76](https://github.com/yash-dk/TorToolkit-Telegram/issues/76) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
-3. ❗️ Opened issue [#334](https://github.com/breakdowns/slam-mirrorbot/issues/334) in [breakdowns/slam-mirrorbot](https://github.com/breakdowns/slam-mirrorbot)
+3. 🗣 Commented on [#76](https://github.com/yash-dk/TorToolkit-Telegram/issues/76) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
