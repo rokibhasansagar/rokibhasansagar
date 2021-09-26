@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/markus-perl/ffmpeg-build-script/issues/102) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
-2. 🗣 Commented on [#110](https://github.com/markus-perl/ffmpeg-build-script/issues/110) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
-3. 🗣 Commented on [#110](https://github.com/markus-perl/ffmpeg-build-script/issues/110) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
+1. 🎉 Merged PR [#1](https://github.com/PH4NTOM-3NCOD3R/airbenCoder/pull/1) in [PH4NTOM-3NCOD3R/airbenCoder](https://github.com/PH4NTOM-3NCOD3R/airbenCoder)
+2. 💪 Opened PR [#1](https://github.com/PH4NTOM-3NCOD3R/airbenCoder/pull/1) in [PH4NTOM-3NCOD3R/airbenCoder](https://github.com/PH4NTOM-3NCOD3R/airbenCoder)
+3. 🎉 Merged PR [#1](https://github.com/PH4NTOM-3NCOD3R/tempCoder/pull/1) in [PH4NTOM-3NCOD3R/tempCoder](https://github.com/PH4NTOM-3NCOD3R/tempCoder)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
