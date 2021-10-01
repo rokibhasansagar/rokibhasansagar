@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/PH4NTOM-3NCOD3R/airbenCoder/pull/1) in [PH4NTOM-3NCOD3R/airbenCoder](https://github.com/PH4NTOM-3NCOD3R/airbenCoder)
-2. 💪 Opened PR [#1](https://github.com/PH4NTOM-3NCOD3R/airbenCoder/pull/1) in [PH4NTOM-3NCOD3R/airbenCoder](https://github.com/PH4NTOM-3NCOD3R/airbenCoder)
-3. 🎉 Merged PR [#1](https://github.com/PH4NTOM-3NCOD3R/tempCoder/pull/1) in [PH4NTOM-3NCOD3R/tempCoder](https://github.com/PH4NTOM-3NCOD3R/tempCoder)
+1. 🎉 Merged PR [#5](https://github.com/DroidDumps/phoenix_firmware_dumper/pull/5) in [DroidDumps/phoenix_firmware_dumper](https://github.com/DroidDumps/phoenix_firmware_dumper)
+2. 🗣 Commented on [#6](https://github.com/DroidDumps/phoenix_firmware_dumper/issues/6) in [DroidDumps/phoenix_firmware_dumper](https://github.com/DroidDumps/phoenix_firmware_dumper)
+3. 🎉 Merged PR [#1](https://github.com/PH4NTOM-3NCOD3R/airbenCoder/pull/1) in [PH4NTOM-3NCOD3R/airbenCoder](https://github.com/PH4NTOM-3NCOD3R/airbenCoder)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
