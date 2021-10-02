@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/Windows2019RDP-US/pull/1) in [rokibhasansagar/Windows2019RDP-US](https://github.com/rokibhasansagar/Windows2019RDP-US)
-2. 💪 Opened PR [#1](https://github.com/rokibhasansagar/Windows2019RDP-US/pull/1) in [rokibhasansagar/Windows2019RDP-US](https://github.com/rokibhasansagar/Windows2019RDP-US)
-3. ❌ Closed PR [#1](https://github.com/WhitePrime/Windows2019RDP-US/pull/1) in [WhitePrime/Windows2019RDP-US](https://github.com/WhitePrime/Windows2019RDP-US)
+1. 🗣 Commented on [#6](https://github.com/DroidDumps/phoenix_firmware_dumper/issues/6) in [DroidDumps/phoenix_firmware_dumper](https://github.com/DroidDumps/phoenix_firmware_dumper)
+2. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/Windows2019RDP-US/pull/1) in [rokibhasansagar/Windows2019RDP-US](https://github.com/rokibhasansagar/Windows2019RDP-US)
+3. 💪 Opened PR [#1](https://github.com/rokibhasansagar/Windows2019RDP-US/pull/1) in [rokibhasansagar/Windows2019RDP-US](https://github.com/rokibhasansagar/Windows2019RDP-US)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
