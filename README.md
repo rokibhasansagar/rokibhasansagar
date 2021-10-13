@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/AndroidDumps/dumpyara/issues/22) in [AndroidDumps/dumpyara](https://github.com/AndroidDumps/dumpyara)
-2. 🗣 Commented on [#115](https://github.com/markus-perl/ffmpeg-build-script/issues/115) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
-3. 🗣 Commented on [#6](https://github.com/DroidDumps/phoenix_firmware_dumper/issues/6) in [DroidDumps/phoenix_firmware_dumper](https://github.com/DroidDumps/phoenix_firmware_dumper)
+1. 🎉 Merged PR [#7](https://github.com/rokibhasansagar/cf-proxy-test/pull/7) in [rokibhasansagar/cf-proxy-test](https://github.com/rokibhasansagar/cf-proxy-test)
+2. 🗣 Commented on [#7](https://github.com/rokibhasansagar/cf-proxy-test/issues/7) in [rokibhasansagar/cf-proxy-test](https://github.com/rokibhasansagar/cf-proxy-test)
+3. 🎉 Merged PR [#6](https://github.com/rokibhasansagar/cf-proxy-test/pull/6) in [rokibhasansagar/cf-proxy-test](https://github.com/rokibhasansagar/cf-proxy-test)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
