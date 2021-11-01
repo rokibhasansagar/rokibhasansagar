@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/markus-perl/ffmpeg-build-script/issues/116) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
-2. 🗣 Commented on [#115](https://github.com/markus-perl/ffmpeg-build-script/issues/115) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
-3. 🗣 Commented on [#4](https://github.com/PhantomZone54/twrp_sources_norepo/issues/4) in [PhantomZone54/twrp_sources_norepo](https://github.com/PhantomZone54/twrp_sources_norepo)
+1. ❗️ Closed issue [#3](https://github.com/PhantomZone54/twrp_sources_norepo/issues/3) in [PhantomZone54/twrp_sources_norepo](https://github.com/PhantomZone54/twrp_sources_norepo)
+2. 🗣 Commented on [#3](https://github.com/PhantomZone54/twrp_sources_norepo/issues/3) in [PhantomZone54/twrp_sources_norepo](https://github.com/PhantomZone54/twrp_sources_norepo)
+3. 🗣 Commented on [#116](https://github.com/markus-perl/ffmpeg-build-script/issues/116) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
