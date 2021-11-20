@@ -45,8 +45,8 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/PhantomZone54/twrp_sources_norepo/issues/3) in [PhantomZone54/twrp_sources_norepo](https://github.com/PhantomZone54/twrp_sources_norepo)
-2. 🗣 Commented on [#3](https://github.com/PhantomZone54/twrp_sources_norepo/issues/3) in [PhantomZone54/twrp_sources_norepo](https://github.com/PhantomZone54/twrp_sources_norepo)
+1. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/1) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
+2. 💪 Opened PR [#1](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/1) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
 3. 🗣 Commented on [#116](https://github.com/markus-perl/ffmpeg-build-script/issues/116) in [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script)
 <!--END_SECTION:activity-->
 
