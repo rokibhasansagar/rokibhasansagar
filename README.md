@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/2) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
-2. 🗣 Commented on [#56](https://github.com/BtbN/FFmpeg-Builds/issues/56) in [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)
-3. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/1) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
+1. ❌ Reopened PR [#2](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/2) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
+2. ❌ Closed PR [#3](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/3) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
+3. ❌ Closed PR [#2](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/2) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
