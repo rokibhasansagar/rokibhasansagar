@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/rokibhasansagar/cf-proxy-test/pull/30) in [rokibhasansagar/cf-proxy-test](https://github.com/rokibhasansagar/cf-proxy-test)
-2. 🗣 Commented on [#30](https://github.com/rokibhasansagar/cf-proxy-test/issues/30) in [rokibhasansagar/cf-proxy-test](https://github.com/rokibhasansagar/cf-proxy-test)
-3. 🎉 Merged PR [#27](https://github.com/rokibhasansagar/cf-proxy-test/pull/27) in [rokibhasansagar/cf-proxy-test](https://github.com/rokibhasansagar/cf-proxy-test)
+1. 🎉 Merged PR [#31](https://github.com/rokibhasansagar/cf-proxy-test/pull/31) in [rokibhasansagar/cf-proxy-test](https://github.com/rokibhasansagar/cf-proxy-test)
+2. 🎉 Merged PR [#30](https://github.com/rokibhasansagar/cf-proxy-test/pull/30) in [rokibhasansagar/cf-proxy-test](https://github.com/rokibhasansagar/cf-proxy-test)
+3. 🗣 Commented on [#30](https://github.com/rokibhasansagar/cf-proxy-test/issues/30) in [rokibhasansagar/cf-proxy-test](https://github.com/rokibhasansagar/cf-proxy-test)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
