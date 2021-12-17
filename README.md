@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/4) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
-2. 🎉 Merged PR [#31](https://github.com/rokibhasansagar/cf-proxy-test/pull/31) in [rokibhasansagar/cf-proxy-test](https://github.com/rokibhasansagar/cf-proxy-test)
-3. 🎉 Merged PR [#30](https://github.com/rokibhasansagar/cf-proxy-test/pull/30) in [rokibhasansagar/cf-proxy-test](https://github.com/rokibhasansagar/cf-proxy-test)
+1. ❌ Closed PR [#2](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/2) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
+2. 🎉 Merged PR [#4](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/4) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
+3. 💪 Opened PR [#4](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/4) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
