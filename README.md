@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/mansuf/mangadex-downloader/issues/17) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
-2. ❗️ Opened issue [#17](https://github.com/mansuf/mangadex-downloader/issues/17) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
-3. 🎉 Merged PR [#3](https://github.com/rokibhasansagar/devlopr-jekyll/pull/3) in [rokibhasansagar/devlopr-jekyll](https://github.com/rokibhasansagar/devlopr-jekyll)
+1. 🗣 Commented on [#18](https://github.com/mansuf/mangadex-downloader/issues/18) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
+2. 🗣 Commented on [#17](https://github.com/mansuf/mangadex-downloader/issues/17) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
+3. ❗️ Opened issue [#17](https://github.com/mansuf/mangadex-downloader/issues/17) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
