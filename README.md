@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/mansuf/mangadex-downloader/issues/17) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
-2. 🗣 Commented on [#18](https://github.com/mansuf/mangadex-downloader/issues/18) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
-3. 🗣 Commented on [#17](https://github.com/mansuf/mangadex-downloader/issues/17) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
+1. 🗣 Commented on [#1](https://github.com/rokibhasansagar/BhadooGDIndex/issues/1) in [rokibhasansagar/BhadooGDIndex](https://github.com/rokibhasansagar/BhadooGDIndex)
+2. 🗣 Commented on [#17](https://github.com/mansuf/mangadex-downloader/issues/17) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
+3. 🗣 Commented on [#18](https://github.com/mansuf/mangadex-downloader/issues/18) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
