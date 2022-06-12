@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/rokibhasansagar/Bento4/pull/1) in [rokibhasansagar/Bento4](https://github.com/rokibhasansagar/Bento4)
-2. 🗣 Commented on [#159](https://github.com/BtbN/FFmpeg-Builds/issues/159) in [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)
-3. 🗣 Commented on [#18](https://github.com/mansuf/mangadex-downloader/issues/18) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
+1. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/Bento4/pull/1) in [rokibhasansagar/Bento4](https://github.com/rokibhasansagar/Bento4)
+2. 💪 Opened PR [#1](https://github.com/rokibhasansagar/Bento4/pull/1) in [rokibhasansagar/Bento4](https://github.com/rokibhasansagar/Bento4)
+3. 🗣 Commented on [#159](https://github.com/BtbN/FFmpeg-Builds/issues/159) in [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
