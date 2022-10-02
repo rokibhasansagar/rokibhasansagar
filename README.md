@@ -45,7 +45,7 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/rokibhasansagar/mergemp4/issues/2) in [rokibhasansagar/mergemp4](https://github.com/rokibhasansagar/mergemp4)
+1. 🎉 Merged PR [#4](https://github.com/Area69Lab/macOS-SSH/pull/4) in [Area69Lab/macOS-SSH](https://github.com/Area69Lab/macOS-SSH)
 2. 🎉 Merged PR [#12](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/12) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
 3. 💪 Opened PR [#12](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/12) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
 <!--END_SECTION:activity-->
