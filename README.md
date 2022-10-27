@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#208](https://github.com/BtbN/FFmpeg-Builds/issues/208) in [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)
-2. 🎉 Merged PR [#14](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/14) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
-3. 💪 Opened PR [#14](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/14) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
+1. 🗣 Commented on [#208](https://github.com/BtbN/FFmpeg-Builds/issues/208) in [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)
+2. ❗️ Opened issue [#208](https://github.com/BtbN/FFmpeg-Builds/issues/208) in [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)
+3. 🎉 Merged PR [#14](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/14) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
