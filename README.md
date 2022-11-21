@@ -46,8 +46,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#36](https://github.com/mansuf/mangadex-downloader/issues/36) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
-2. ❗️ Opened issue [#36](https://github.com/mansuf/mangadex-downloader/issues/36) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
-3. 🎉 Merged PR [#15](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/15) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
+2. 🗣 Commented on [#36](https://github.com/mansuf/mangadex-downloader/issues/36) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
+3. ❗️ Opened issue [#36](https://github.com/mansuf/mangadex-downloader/issues/36) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
