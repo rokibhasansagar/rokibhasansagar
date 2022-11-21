@@ -47,7 +47,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#37](https://github.com/mansuf/mangadex-downloader/issues/37) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
 2. 🗣 Commented on [#37](https://github.com/mansuf/mangadex-downloader/issues/37) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
-3. ❗️ Opened issue [#37](https://github.com/mansuf/mangadex-downloader/issues/37) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
+3. 🗣 Commented on [#37](https://github.com/mansuf/mangadex-downloader/issues/37) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
