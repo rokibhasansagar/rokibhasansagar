@@ -45,7 +45,7 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/mansuf/mangadex-downloader/issues/37) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
+1. 💪 Opened PR [#16](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/16) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
 2. 🗣 Commented on [#37](https://github.com/mansuf/mangadex-downloader/issues/37) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
 3. 🗣 Commented on [#37](https://github.com/mansuf/mangadex-downloader/issues/37) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
 <!--END_SECTION:activity-->
