@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/DroidDumps/phoenix_firmware_dumper/issues/8) in [DroidDumps/phoenix_firmware_dumper](https://github.com/DroidDumps/phoenix_firmware_dumper)
-2. 🗣 Commented on [#8](https://github.com/DroidDumps/phoenix_firmware_dumper/issues/8) in [DroidDumps/phoenix_firmware_dumper](https://github.com/DroidDumps/phoenix_firmware_dumper)
-3. 🎉 Merged PR [#10](https://github.com/DroidDumps/phoenix_firmware_dumper/pull/10) in [DroidDumps/phoenix_firmware_dumper](https://github.com/DroidDumps/phoenix_firmware_dumper)
+1. ❗️ Closed issue [#7](https://github.com/DroidDumps/phoenix_firmware_dumper/issues/7) in [DroidDumps/phoenix_firmware_dumper](https://github.com/DroidDumps/phoenix_firmware_dumper)
+2. 🗣 Commented on [#7](https://github.com/DroidDumps/phoenix_firmware_dumper/issues/7) in [DroidDumps/phoenix_firmware_dumper](https://github.com/DroidDumps/phoenix_firmware_dumper)
+3. ❗️ Closed issue [#8](https://github.com/DroidDumps/phoenix_firmware_dumper/issues/8) in [DroidDumps/phoenix_firmware_dumper](https://github.com/DroidDumps/phoenix_firmware_dumper)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
