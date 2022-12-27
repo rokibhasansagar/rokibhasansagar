@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/rokibhasansagar/BhadooGDIndex/issues/1) in [rokibhasansagar/BhadooGDIndex](https://github.com/rokibhasansagar/BhadooGDIndex)
-2. 🗣 Commented on [#2](https://github.com/rokibhasansagar/BhadooGDIndex/issues/2) in [rokibhasansagar/BhadooGDIndex](https://github.com/rokibhasansagar/BhadooGDIndex)
-3. ❗️ Closed issue [#7](https://github.com/DroidDumps/phoenix_firmware_dumper/issues/7) in [DroidDumps/phoenix_firmware_dumper](https://github.com/DroidDumps/phoenix_firmware_dumper)
+1. 🎉 Merged PR [#17](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/17) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
+2. 💪 Opened PR [#17](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/17) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
+3. 🗣 Commented on [#1](https://github.com/rokibhasansagar/BhadooGDIndex/issues/1) in [rokibhasansagar/BhadooGDIndex](https://github.com/rokibhasansagar/BhadooGDIndex)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
