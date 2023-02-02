@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/rokibhasansagar/reflare-gdrivecdn-phantomzone/pull/2) in [rokibhasansagar/reflare-gdrivecdn-phantomzone](https://github.com/rokibhasansagar/reflare-gdrivecdn-phantomzone)
-2. 💪 Opened PR [#2](https://github.com/rokibhasansagar/reflare-gdrivecdn-phantomzone/pull/2) in [rokibhasansagar/reflare-gdrivecdn-phantomzone](https://github.com/rokibhasansagar/reflare-gdrivecdn-phantomzone)
-3. 🗣 Commented on [#1](https://github.com/rokibhasansagar/reflare-gdrivecdn-phantomzone/issues/1) in [rokibhasansagar/reflare-gdrivecdn-phantomzone](https://github.com/rokibhasansagar/reflare-gdrivecdn-phantomzone)
+1. 🎉 Merged PR [#13](https://github.com/rokibhasansagar/reflare-cdn-template/pull/13) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+2. 🎉 Merged PR [#2](https://github.com/rokibhasansagar/reflare-gdrivecdn-phantomzone/pull/2) in [rokibhasansagar/reflare-gdrivecdn-phantomzone](https://github.com/rokibhasansagar/reflare-gdrivecdn-phantomzone)
+3. 💪 Opened PR [#2](https://github.com/rokibhasansagar/reflare-gdrivecdn-phantomzone/pull/2) in [rokibhasansagar/reflare-gdrivecdn-phantomzone](https://github.com/rokibhasansagar/reflare-gdrivecdn-phantomzone)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
