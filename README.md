@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/rokibhasansagar/reflare-cdn-template/issues/30) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
-2. 🎉 Merged PR [#29](https://github.com/rokibhasansagar/reflare-cdn-template/pull/29) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
-3. 🎉 Merged PR [#31](https://github.com/rokibhasansagar/reflare-cdn-template/pull/31) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+1. 🎉 Merged PR [#35](https://github.com/rokibhasansagar/reflare-cdn-template/pull/35) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+2. 🗣 Commented on [#35](https://github.com/rokibhasansagar/reflare-cdn-template/issues/35) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+3. 🎉 Merged PR [#34](https://github.com/rokibhasansagar/reflare-cdn-template/pull/34) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
