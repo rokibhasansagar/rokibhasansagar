@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/rokibhasansagar/BhadooGDIndex/issues/1) in [rokibhasansagar/BhadooGDIndex](https://github.com/rokibhasansagar/BhadooGDIndex)
-2. ❗️ Closed issue [#2](https://github.com/rokibhasansagar/BhadooGDIndex/issues/2) in [rokibhasansagar/BhadooGDIndex](https://github.com/rokibhasansagar/BhadooGDIndex)
-3. 🎉 Merged PR [#35](https://github.com/rokibhasansagar/reflare-cdn-template/pull/35) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+1. 🗣 Commented on [#3](https://github.com/rokibhasansagar/BhadooGDIndex/issues/3) in [rokibhasansagar/BhadooGDIndex](https://github.com/rokibhasansagar/BhadooGDIndex)
+2. ❗️ Closed issue [#1](https://github.com/rokibhasansagar/BhadooGDIndex/issues/1) in [rokibhasansagar/BhadooGDIndex](https://github.com/rokibhasansagar/BhadooGDIndex)
+3. ❗️ Closed issue [#2](https://github.com/rokibhasansagar/BhadooGDIndex/issues/2) in [rokibhasansagar/BhadooGDIndex](https://github.com/rokibhasansagar/BhadooGDIndex)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
