@@ -45,7 +45,7 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/22) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
+1. 💪 Opened PR [#23](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/23) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
 2. 💪 Opened PR [#22](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/22) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
 3. 🗣 Commented on [#3](https://github.com/rokibhasansagar/BhadooGDIndex/issues/3) in [rokibhasansagar/BhadooGDIndex](https://github.com/rokibhasansagar/BhadooGDIndex)
 <!--END_SECTION:activity-->
