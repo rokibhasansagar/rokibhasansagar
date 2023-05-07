@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#973](https://github.com/spencerwooo/onedrive-vercel-index/issues/973) in [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index)
-2. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/ms365-vercel-index/pull/1) in [rokibhasansagar/ms365-vercel-index](https://github.com/rokibhasansagar/ms365-vercel-index)
-3. 💪 Opened PR [#1](https://github.com/rokibhasansagar/ms365-vercel-index/pull/1) in [rokibhasansagar/ms365-vercel-index](https://github.com/rokibhasansagar/ms365-vercel-index)
+1. 🗣 Commented on [#752](https://github.com/master-of-zen/Av1an/issues/752) in [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an)
+2. ❗️ Opened issue [#752](https://github.com/master-of-zen/Av1an/issues/752) in [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an)
+3. 🗣 Commented on [#973](https://github.com/spencerwooo/onedrive-vercel-index/issues/973) in [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
