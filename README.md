@@ -47,7 +47,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#752](https://github.com/master-of-zen/Av1an/issues/752) in [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an)
 2. 🗣 Commented on [#752](https://github.com/master-of-zen/Av1an/issues/752) in [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an)
-3. ❗️ Opened issue [#752](https://github.com/master-of-zen/Av1an/issues/752) in [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an)
+3. 🗣 Commented on [#752](https://github.com/master-of-zen/Av1an/issues/752) in [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
