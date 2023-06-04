@@ -45,8 +45,8 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/28) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
-2. 🗣 Commented on [#744](https://github.com/master-of-zen/Av1an/issues/744) in [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an)
+1. 🎉 Merged PR [#28](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/28) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
+2. 💪 Opened PR [#28](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/28) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
 3. 🗣 Commented on [#744](https://github.com/master-of-zen/Av1an/issues/744) in [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an)
 <!--END_SECTION:activity-->
 
