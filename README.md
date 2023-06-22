@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/Clybius/aom-av1-lavish/issues/2) in [Clybius/aom-av1-lavish](https://github.com/Clybius/aom-av1-lavish)
-2. 🎉 Merged PR [#3](https://github.com/rokibhasansagar/ms365-vercel-index/pull/3) in [rokibhasansagar/ms365-vercel-index](https://github.com/rokibhasansagar/ms365-vercel-index)
-3. 💪 Opened PR [#3](https://github.com/rokibhasansagar/ms365-vercel-index/pull/3) in [rokibhasansagar/ms365-vercel-index](https://github.com/rokibhasansagar/ms365-vercel-index)
+1. 🗣 Commented on [#2](https://github.com/Clybius/aom-av1-lavish/issues/2) in [Clybius/aom-av1-lavish](https://github.com/Clybius/aom-av1-lavish)
+2. ❗ Opened issue [#2](https://github.com/Clybius/aom-av1-lavish/issues/2) in [Clybius/aom-av1-lavish](https://github.com/Clybius/aom-av1-lavish)
+3. 🎉 Merged PR [#3](https://github.com/rokibhasansagar/ms365-vercel-index/pull/3) in [rokibhasansagar/ms365-vercel-index](https://github.com/rokibhasansagar/ms365-vercel-index)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
