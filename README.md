@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Clybius/aom-av1-lavish/issues/2) in [Clybius/aom-av1-lavish](https://github.com/Clybius/aom-av1-lavish)
+1. 💪 Opened PR [#29](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/29) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
 2. 🗣 Commented on [#2](https://github.com/Clybius/aom-av1-lavish/issues/2) in [Clybius/aom-av1-lavish](https://github.com/Clybius/aom-av1-lavish)
-3. ❗ Opened issue [#2](https://github.com/Clybius/aom-av1-lavish/issues/2) in [Clybius/aom-av1-lavish](https://github.com/Clybius/aom-av1-lavish)
+3. 🗣 Commented on [#2](https://github.com/Clybius/aom-av1-lavish/issues/2) in [Clybius/aom-av1-lavish](https://github.com/Clybius/aom-av1-lavish)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
