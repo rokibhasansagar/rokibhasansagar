@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/29) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
-2. 💪 Opened PR [#29](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/29) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
-3. 🗣 Commented on [#2](https://github.com/Clybius/aom-av1-lavish/issues/2) in [Clybius/aom-av1-lavish](https://github.com/Clybius/aom-av1-lavish)
+1. 🎉 Merged PR [#50](https://github.com/rokibhasansagar/reflare-cdn-template/pull/50) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+2. 🎉 Merged PR [#49](https://github.com/rokibhasansagar/reflare-cdn-template/pull/49) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+3. 🎉 Merged PR [#29](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/29) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
