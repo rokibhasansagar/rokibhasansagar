@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/31) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
-2. 💪 Opened PR [#31](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/31) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
-3. 🎉 Merged PR [#57](https://github.com/rokibhasansagar/reflare-cdn-template/pull/57) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+1. 🎉 Merged PR [#58](https://github.com/rokibhasansagar/reflare-cdn-template/pull/58) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+2. 🎉 Merged PR [#62](https://github.com/rokibhasansagar/reflare-cdn-template/pull/62) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+3. 🎉 Merged PR [#31](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/31) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
