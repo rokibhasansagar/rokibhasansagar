@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#744](https://github.com/master-of-zen/Av1an/issues/744#issuecomment-1684866124) in [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an)
-2. 🗣 Commented on [#744](https://github.com/master-of-zen/Av1an/issues/744#issuecomment-1684238945) in [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an)
-3. 🗣 Commented on [#4](https://github.com/rokibhasansagar/mergemp4/pull/4#issuecomment-1678568086) in [rokibhasansagar/mergemp4](https://github.com/rokibhasansagar/mergemp4)
+1. 🎉 Merged PR [#2](https://github.com/rokibhasansagar/torrent-webseed-creator/pull/2) in [rokibhasansagar/torrent-webseed-creator](https://github.com/rokibhasansagar/torrent-webseed-creator)
+2. 🗣 Commented on [#1](https://github.com/rokibhasansagar/torrent-webseed-creator/pull/1#issuecomment-1692253757) in [rokibhasansagar/torrent-webseed-creator](https://github.com/rokibhasansagar/torrent-webseed-creator)
+3. 🗣 Commented on [#744](https://github.com/master-of-zen/Av1an/issues/744#issuecomment-1684866124) in [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
