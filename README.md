@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/dnjulek/vapoursynth-ssimulacra2/issues/1) in [dnjulek/vapoursynth-ssimulacra2](https://github.com/dnjulek/vapoursynth-ssimulacra2)
-2. 🚀 Published release [2023 Update 2](https://github.com/rokibhasansagar/slimhub_actions/releases/tag/v23.44.6) in [rokibhasansagar/slimhub_actions](https://github.com/rokibhasansagar/slimhub_actions)
-3. 🎉 Merged PR [#74](https://github.com/rokibhasansagar/reflare-cdn-template/pull/74) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+1. 🗣 Commented on [#1](https://github.com/dnjulek/vapoursynth-ssimulacra2/issues/1#issuecomment-1820863418) in [dnjulek/vapoursynth-ssimulacra2](https://github.com/dnjulek/vapoursynth-ssimulacra2)
+2. ❗ Opened issue [#1](https://github.com/dnjulek/vapoursynth-ssimulacra2/issues/1) in [dnjulek/vapoursynth-ssimulacra2](https://github.com/dnjulek/vapoursynth-ssimulacra2)
+3. 🚀 Published release [2023 Update 2](https://github.com/rokibhasansagar/slimhub_actions/releases/tag/v23.44.6) in [rokibhasansagar/slimhub_actions](https://github.com/rokibhasansagar/slimhub_actions)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
