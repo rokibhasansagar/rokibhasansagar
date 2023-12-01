@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/rokibhasansagar/torrent-webseed-creator/pull/3) in [rokibhasansagar/torrent-webseed-creator](https://github.com/rokibhasansagar/torrent-webseed-creator)
-2. 🗣 Commented on [#14](https://github.com/rokibhasansagar/cavif-rs/pull/14#issuecomment-1827517249) in [rokibhasansagar/cavif-rs](https://github.com/rokibhasansagar/cavif-rs)
-3. 🗣 Commented on [#1](https://github.com/dnjulek/vapoursynth-ssimulacra2/issues/1#issuecomment-1820863418) in [dnjulek/vapoursynth-ssimulacra2](https://github.com/dnjulek/vapoursynth-ssimulacra2)
+1. 🎉 Merged PR [#77](https://github.com/rokibhasansagar/reflare-cdn-template/pull/77) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+2. 🎉 Merged PR [#76](https://github.com/rokibhasansagar/reflare-cdn-template/pull/76) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+3. 🎉 Merged PR [#75](https://github.com/rokibhasansagar/reflare-cdn-template/pull/75) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
