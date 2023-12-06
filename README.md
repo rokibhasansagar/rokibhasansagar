@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/rokibhasansagar/reflare-cdn-template/pull/78) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
-2. 🎉 Merged PR [#77](https://github.com/rokibhasansagar/reflare-cdn-template/pull/77) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
-3. 🎉 Merged PR [#76](https://github.com/rokibhasansagar/reflare-cdn-template/pull/76) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+1. ❗ Opened issue [#474](https://github.com/manga-py/manga-py/issues/474) in [manga-py/manga-py](https://github.com/manga-py/manga-py)
+2. 🎉 Merged PR [#78](https://github.com/rokibhasansagar/reflare-cdn-template/pull/78) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+3. 🎉 Merged PR [#77](https://github.com/rokibhasansagar/reflare-cdn-template/pull/77) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
