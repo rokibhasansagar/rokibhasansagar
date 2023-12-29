@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/36) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
-2. 🗣 Commented on [#249](https://github.com/actions/download-artifact/issues/249#issuecomment-1868239889) in [actions/download-artifact](https://github.com/actions/download-artifact)
-3. 🚀 Published release [v1.6.0-641](https://github.com/rokibhasansagar/Bento4/releases/tag/v1.6.0-641) in [rokibhasansagar/Bento4](https://github.com/rokibhasansagar/Bento4)
+1. 🎉 Merged PR [#36](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/36) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
+2. 💪 Opened PR [#36](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/36) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
+3. 🗣 Commented on [#249](https://github.com/actions/download-artifact/issues/249#issuecomment-1868239889) in [actions/download-artifact](https://github.com/actions/download-artifact)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
