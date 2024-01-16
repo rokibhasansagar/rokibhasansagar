@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#474](https://github.com/manga-py/manga-py/issues/474#issuecomment-1880042633) in [manga-py/manga-py](https://github.com/manga-py/manga-py)
-2. 🗣 Commented on [#53](https://github.com/hurlenko/mloader/issues/53#issuecomment-1880040352) in [hurlenko/mloader](https://github.com/hurlenko/mloader)
-3. ❗ Opened issue [#54](https://github.com/hurlenko/mloader/issues/54) in [hurlenko/mloader](https://github.com/hurlenko/mloader)
+1. 🗣 Commented on [#3](https://github.com/rokibhasansagar/sharezone-vercel-index/pull/3#issuecomment-1893611814) in [rokibhasansagar/sharezone-vercel-index](https://github.com/rokibhasansagar/sharezone-vercel-index)
+2. 🎉 Merged PR [#2](https://github.com/rokibhasansagar/sharezone-vercel-index/pull/2) in [rokibhasansagar/sharezone-vercel-index](https://github.com/rokibhasansagar/sharezone-vercel-index)
+3. 🎉 Merged PR [#5](https://github.com/rokibhasansagar/sharezone-vercel-index/pull/5) in [rokibhasansagar/sharezone-vercel-index](https://github.com/rokibhasansagar/sharezone-vercel-index)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
