@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/rokibhasansagar/ms365-vercel-index/pull/6) in [rokibhasansagar/ms365-vercel-index](https://github.com/rokibhasansagar/ms365-vercel-index)
-2. 🎉 Merged PR [#5](https://github.com/rokibhasansagar/ms365-vercel-index/pull/5) in [rokibhasansagar/ms365-vercel-index](https://github.com/rokibhasansagar/ms365-vercel-index)
-3. 🎉 Merged PR [#4](https://github.com/rokibhasansagar/ms365-vercel-index/pull/4) in [rokibhasansagar/ms365-vercel-index](https://github.com/rokibhasansagar/ms365-vercel-index)
+1. 🎉 Merged PR [#8](https://github.com/rokibhasansagar/ms365-vercel-index/pull/8) in [rokibhasansagar/ms365-vercel-index](https://github.com/rokibhasansagar/ms365-vercel-index)
+2. 🎉 Merged PR [#7](https://github.com/rokibhasansagar/ms365-vercel-index/pull/7) in [rokibhasansagar/ms365-vercel-index](https://github.com/rokibhasansagar/ms365-vercel-index)
+3. 🎉 Merged PR [#6](https://github.com/rokibhasansagar/ms365-vercel-index/pull/6) in [rokibhasansagar/ms365-vercel-index](https://github.com/rokibhasansagar/ms365-vercel-index)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
