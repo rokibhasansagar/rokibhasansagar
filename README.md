@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/hurlenko/mloader/issues/36#issuecomment-1916796950) in [hurlenko/mloader](https://github.com/hurlenko/mloader)
-2. 🗣 Commented on [#36](https://github.com/hurlenko/mloader/issues/36#issuecomment-1914032301) in [hurlenko/mloader](https://github.com/hurlenko/mloader)
-3. ❗ Opened issue [#475](https://github.com/manga-py/manga-py/issues/475) in [manga-py/manga-py](https://github.com/manga-py/manga-py)
+1. 🗣 Commented on [#36](https://github.com/hurlenko/mloader/issues/36#issuecomment-1918412990) in [hurlenko/mloader](https://github.com/hurlenko/mloader)
+2. 🗣 Commented on [#36](https://github.com/hurlenko/mloader/issues/36#issuecomment-1916796950) in [hurlenko/mloader](https://github.com/hurlenko/mloader)
+3. 🗣 Commented on [#36](https://github.com/hurlenko/mloader/issues/36#issuecomment-1914032301) in [hurlenko/mloader](https://github.com/hurlenko/mloader)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
