@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Miraculous: Tales of Ladybug and Cat Noir Season 3 1080p Disney+ WEB-DL DDP5.1 H.264-LAZY](https://github.com/MiraculouStreams/S03Assets-CDN2/releases/tag/Miraculous.Tales.of.Ladybug.and.Cat.Noir.S03.1080p.DSNP.WEB-DL.DDP5.1.H.264-LAZY) in [MiraculouStreams/S03Assets-CDN2](https://github.com/MiraculouStreams/S03Assets-CDN2)
-2. 🚀 Published release [Miraculous: Tales of Ladybug and Cat Noir Season 3 1080p Disney+ WEB-DL DDP5.1 H.264-LAZY](https://github.com/MiraculouStreams/S03Assets-CDN1/releases/tag/Miraculous.Tales.of.Ladybug.and.Cat.Noir.S03.1080p.DSNP.WEB-DL.DDP5.1.H.264-LAZY) in [MiraculouStreams/S03Assets-CDN1](https://github.com/MiraculouStreams/S03Assets-CDN1)
-3. 🚀 Published release [Miraculous: Tales of Ladybug and Cat Noir Season 3 1080p Disney+ WEB-DL DDP5.1 H.264-LAZY](https://github.com/MiraculouStreams/S03Assets/releases/tag/Miraculous.Tales.of.Ladybug.and.Cat.Noir.S03.1080p.DSNP.WEB-DL.DDP5.1.H.264-LAZY) in [MiraculouStreams/S03Assets](https://github.com/MiraculouStreams/S03Assets)
+1. 🚀 Published release [Miraculous: Tales of Ladybug and Cat Noir Season 4 1080p Disney+ WEB-DL DDP5.1 H.264-LAZY](https://github.com/MiraculouStreams/S04Assets-CDN2/releases/tag/Miraculous.Tales.of.Ladybug.and.Cat.Noir.S04.1080p.DSNP.WEB-DL.DDP5.1.H.264-LAZY) in [MiraculouStreams/S04Assets-CDN2](https://github.com/MiraculouStreams/S04Assets-CDN2)
+2. 🚀 Published release [Miraculous: Tales of Ladybug and Cat Noir Season 4 1080p Disney+ WEB-DL DDP5.1 H.264-LAZY](https://github.com/MiraculouStreams/S04Assets-CDN1/releases/tag/Miraculous.Tales.of.Ladybug.and.Cat.Noir.S04.1080p.DSNP.WEB-DL.DDP5.1.H.264-LAZY) in [MiraculouStreams/S04Assets-CDN1](https://github.com/MiraculouStreams/S04Assets-CDN1)
+3. 🚀 Published release [Miraculous: Tales of Ladybug and Cat Noir Season 4 1080p Disney+ WEB-DL DDP5.1 H.264-LAZY](https://github.com/MiraculouStreams/S04Assets/releases/tag/Miraculous.Tales.of.Ladybug.and.Cat.Noir.S04.1080p.DSNP.WEB-DL.DDP5.1.H.264-LAZY) in [MiraculouStreams/S04Assets](https://github.com/MiraculouStreams/S04Assets)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
