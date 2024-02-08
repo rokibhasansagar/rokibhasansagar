@@ -45,8 +45,8 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Miraculous: Tales of Ladybug and Cat Noir Season 1 1080p Disney+ WEB-DL DDP5.1 H.264-LAZY](https://github.com/MiraculouStreams/S01Assets-CDN1/releases/tag/Miraculous.Tales.of.Ladybug.and.Cat.Noir.S01.1080p.DSNP.WEB-DL.DDP5.1.H.264-LAZY) in [MiraculouStreams/S01Assets-CDN1](https://github.com/MiraculouStreams/S01Assets-CDN1)
-2. 🚀 Published release [Miraculous: Tales of Ladybug and Cat Noir Season 1 1080p Disney+ WEB-DL DDP5.1 H.264-LAZY](https://github.com/MiraculouStreams/S01Assets/releases/tag/Miraculous.Tales.of.Ladybug.and.Cat.Noir.S01.1080p.DSNP.WEB-DL.DDP5.1.H.264-LAZY) in [MiraculouStreams/S01Assets](https://github.com/MiraculouStreams/S01Assets)
+1. 🚀 Published release [Miraculous: Tales of Ladybug and Cat Noir Season 1 1080p Disney+ WEB-DL DDP5.1 H.264-LAZY](https://github.com/MiraculouStreams/S01Assets-CDN2/releases/tag/Miraculous.Tales.of.Ladybug.and.Cat.Noir.S01.1080p.DSNP.WEB-DL.DDP5.1.H.264-LAZY) in [MiraculouStreams/S01Assets-CDN2](https://github.com/MiraculouStreams/S01Assets-CDN2)
+2. 🚀 Published release [Miraculous: Tales of Ladybug and Cat Noir Season 1 1080p Disney+ WEB-DL DDP5.1 H.264-LAZY](https://github.com/MiraculouStreams/S01Assets-CDN1/releases/tag/Miraculous.Tales.of.Ladybug.and.Cat.Noir.S01.1080p.DSNP.WEB-DL.DDP5.1.H.264-LAZY) in [MiraculouStreams/S01Assets-CDN1](https://github.com/MiraculouStreams/S01Assets-CDN1)
 3. 🚀 Published release [Miraculous: Tales of Ladybug and Cat Noir Season 1 1080p Disney+ WEB-DL DDP5.1 H.264-LAZY](https://github.com/MiraculouStreams/S01Assets/releases/tag/Miraculous.Tales.of.Ladybug.and.Cat.Noir.S01.1080p.DSNP.WEB-DL.DDP5.1.H.264-LAZY) in [MiraculouStreams/S01Assets](https://github.com/MiraculouStreams/S01Assets)
 <!--END_SECTION:activity-->
 
