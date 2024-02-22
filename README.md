@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/rokibhasansagar/sharezone-vercel-index/pull/8) in [rokibhasansagar/sharezone-vercel-index](https://github.com/rokibhasansagar/sharezone-vercel-index)
-2. 🚀 Published release [Miraculous: Tales of Ladybug and Cat Noir Season 5 1080p Disney+ WEB-DL DDP5.1 H.264-LADYBUG](https://github.com/MiraculouStreams/S05Assets-CDN2/releases/tag/Miraculous.Tales.of.Ladybug.and.Cat.Noir.S05.1080p.DSNP.WEB-DL.DDP5.1.H.264-LADYBUG) in [MiraculouStreams/S05Assets-CDN2](https://github.com/MiraculouStreams/S05Assets-CDN2)
-3. 🚀 Published release [Miraculous: Tales of Ladybug and Cat Noir Season 5 1080p Disney+ WEB-DL DDP5.1 H.264-LADYBUG](https://github.com/MiraculouStreams/S05Assets-CDN1/releases/tag/Miraculous.Tales.of.Ladybug.and.Cat.Noir.S05.1080p.DSNP.WEB-DL.DDP5.1.H.264-LADYBUG) in [MiraculouStreams/S05Assets-CDN1](https://github.com/MiraculouStreams/S05Assets-CDN1)
+1. 🎉 Merged PR [#9](https://github.com/rokibhasansagar/sharezone-vercel-index/pull/9) in [rokibhasansagar/sharezone-vercel-index](https://github.com/rokibhasansagar/sharezone-vercel-index)
+2. 💪 Opened PR [#8](https://github.com/rokibhasansagar/sharezone-vercel-index/pull/8) in [rokibhasansagar/sharezone-vercel-index](https://github.com/rokibhasansagar/sharezone-vercel-index)
+3. 🚀 Published release [Miraculous: Tales of Ladybug and Cat Noir Season 5 1080p Disney+ WEB-DL DDP5.1 H.264-LADYBUG](https://github.com/MiraculouStreams/S05Assets-CDN2/releases/tag/Miraculous.Tales.of.Ladybug.and.Cat.Noir.S05.1080p.DSNP.WEB-DL.DDP5.1.H.264-LADYBUG) in [MiraculouStreams/S05Assets-CDN2](https://github.com/MiraculouStreams/S05Assets-CDN2)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
