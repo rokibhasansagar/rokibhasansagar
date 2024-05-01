@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/39) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
-2. 💪 Opened PR [#39](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/39) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
-3. 🗣 Commented on [#36](https://github.com/hurlenko/mloader/issues/36#issuecomment-2063002806) in [hurlenko/mloader](https://github.com/hurlenko/mloader)
+1. 🎉 Merged PR [#94](https://github.com/rokibhasansagar/reflare-cdn-template/pull/94) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+2. 🎉 Merged PR [#96](https://github.com/rokibhasansagar/reflare-cdn-template/pull/96) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+3. 🎉 Merged PR [#39](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/39) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
