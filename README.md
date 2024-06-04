@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Latest Release](https://github.com/ZeoRexDevs/test/releases/tag/latest) in [ZeoRexDevs/test](https://github.com/ZeoRexDevs/test)
-2. ❗ Opened issue [#2](https://github.com/dnjulek/vapoursynth-ssimulacra2/issues/2) in [dnjulek/vapoursynth-ssimulacra2](https://github.com/dnjulek/vapoursynth-ssimulacra2)
-3. 🎉 Merged PR [#40](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/40) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
+1. 💪 Opened PR [#41](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/41) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
+2. 🚀 Published release [Latest Release](https://github.com/ZeoRexDevs/test/releases/tag/latest) in [ZeoRexDevs/test](https://github.com/ZeoRexDevs/test)
+3. ❗ Opened issue [#2](https://github.com/dnjulek/vapoursynth-ssimulacra2/issues/2) in [dnjulek/vapoursynth-ssimulacra2](https://github.com/dnjulek/vapoursynth-ssimulacra2)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
