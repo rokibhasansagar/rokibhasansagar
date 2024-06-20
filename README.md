@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/41) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
-2. 💪 Opened PR [#41](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/41) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
-3. 🚀 Published release [Latest Release](https://github.com/ZeoRexDevs/test/releases/tag/latest) in [ZeoRexDevs/test](https://github.com/ZeoRexDevs/test)
+1. 🎉 Merged PR [#100](https://github.com/rokibhasansagar/reflare-cdn-template/pull/100) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+2. 🎉 Merged PR [#97](https://github.com/rokibhasansagar/reflare-cdn-template/pull/97) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+3. 🎉 Merged PR [#99](https://github.com/rokibhasansagar/reflare-cdn-template/pull/99) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
