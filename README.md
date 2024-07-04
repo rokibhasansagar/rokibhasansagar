@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/nlzy/vapoursynth-waifu2x-ncnn-vulkan/issues/13) in [nlzy/vapoursynth-waifu2x-ncnn-vulkan](https://github.com/nlzy/vapoursynth-waifu2x-ncnn-vulkan)
-2. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/vapoursynth-plugin-vsakarin/pull/1) in [rokibhasansagar/vapoursynth-plugin-vsakarin](https://github.com/rokibhasansagar/vapoursynth-plugin-vsakarin)
-3. 💪 Opened PR [#1](https://github.com/rokibhasansagar/vapoursynth-plugin-vsakarin/pull/1) in [rokibhasansagar/vapoursynth-plugin-vsakarin](https://github.com/rokibhasansagar/vapoursynth-plugin-vsakarin)
+1. 🗣 Commented on [#107](https://github.com/mansuf/mangadex-downloader/issues/107#issuecomment-2208981071) in [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader)
+2. ❗ Opened issue [#13](https://github.com/nlzy/vapoursynth-waifu2x-ncnn-vulkan/issues/13) in [nlzy/vapoursynth-waifu2x-ncnn-vulkan](https://github.com/nlzy/vapoursynth-waifu2x-ncnn-vulkan)
+3. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/vapoursynth-plugin-vsakarin/pull/1) in [rokibhasansagar/vapoursynth-plugin-vsakarin](https://github.com/rokibhasansagar/vapoursynth-plugin-vsakarin)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
