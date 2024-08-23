@@ -45,8 +45,8 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Initial Release Test](https://github.com/rokibhasansagar/vs-mlrt-mirror/releases/tag/15.1.1) in [rokibhasansagar/vs-mlrt-mirror](https://github.com/rokibhasansagar/vs-mlrt-mirror)
-2. ❗ Opened issue [#13](https://github.com/nlzy/vapoursynth-waifu2x-ncnn-vulkan/issues/13) in [nlzy/vapoursynth-waifu2x-ncnn-vulkan](https://github.com/nlzy/vapoursynth-waifu2x-ncnn-vulkan)
+1. 🗣 Commented on [#36](https://github.com/hurlenko/mloader/issues/36#issuecomment-2305878659) in [hurlenko/mloader](https://github.com/hurlenko/mloader)
+2. 🚀 Published release [Initial Release Test](https://github.com/rokibhasansagar/vs-mlrt-mirror/releases/tag/15.1.1) in [rokibhasansagar/vs-mlrt-mirror](https://github.com/rokibhasansagar/vs-mlrt-mirror)
 3. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/vapoursynth-plugin-vsakarin/pull/1) in [rokibhasansagar/vapoursynth-plugin-vsakarin](https://github.com/rokibhasansagar/vapoursynth-plugin-vsakarin)
 <!--END_SECTION:activity-->
 
