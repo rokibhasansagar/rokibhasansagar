@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/hurlenko/mloader/issues/36#issuecomment-2307650448) in [hurlenko/mloader](https://github.com/hurlenko/mloader)
-2. 🗣 Commented on [#36](https://github.com/hurlenko/mloader/issues/36#issuecomment-2305878659) in [hurlenko/mloader](https://github.com/hurlenko/mloader)
-3. 🚀 Published release [Initial Release Test](https://github.com/rokibhasansagar/vs-mlrt-mirror/releases/tag/15.1.1) in [rokibhasansagar/vs-mlrt-mirror](https://github.com/rokibhasansagar/vs-mlrt-mirror)
+1. 🎉 Merged PR [#110](https://github.com/rokibhasansagar/reflare-cdn-template/pull/110) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+2. 🎉 Merged PR [#109](https://github.com/rokibhasansagar/reflare-cdn-template/pull/109) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+3. 🗣 Commented on [#108](https://github.com/rokibhasansagar/reflare-cdn-template/pull/108#issuecomment-2308168334) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
