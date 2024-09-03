@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#111](https://github.com/rokibhasansagar/reflare-cdn-template/pull/111) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
-2. 🎉 Merged PR [#110](https://github.com/rokibhasansagar/reflare-cdn-template/pull/110) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
-3. 🎉 Merged PR [#109](https://github.com/rokibhasansagar/reflare-cdn-template/pull/109) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+1. 🎉 Merged PR [#18](https://github.com/rokibhasansagar/ms365-vercel-index/pull/18) in [rokibhasansagar/ms365-vercel-index](https://github.com/rokibhasansagar/ms365-vercel-index)
+2. 🎉 Merged PR [#14](https://github.com/rokibhasansagar/sharezone-vercel-index/pull/14) in [rokibhasansagar/sharezone-vercel-index](https://github.com/rokibhasansagar/sharezone-vercel-index)
+3. 🎉 Merged PR [#111](https://github.com/rokibhasansagar/reflare-cdn-template/pull/111) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
