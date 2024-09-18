@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/hurlenko/mloader/issues/36#issuecomment-2338026989) in [hurlenko/mloader](https://github.com/hurlenko/mloader)
-2. 🎉 Merged PR [#112](https://github.com/rokibhasansagar/reflare-cdn-template/pull/112) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
-3. 🎉 Merged PR [#18](https://github.com/rokibhasansagar/ms365-vercel-index/pull/18) in [rokibhasansagar/ms365-vercel-index](https://github.com/rokibhasansagar/ms365-vercel-index)
+1. 🚀 Published release [Release v1.6.0-641](https://github.com/rokibhasansagar/Bento4/releases/tag/v1.6.0-641) in [rokibhasansagar/Bento4](https://github.com/rokibhasansagar/Bento4)
+2. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/Bento4/pull/1) in [rokibhasansagar/Bento4](https://github.com/rokibhasansagar/Bento4)
+3. 💪 Opened PR [#1](https://github.com/rokibhasansagar/Bento4/pull/1) in [rokibhasansagar/Bento4](https://github.com/rokibhasansagar/Bento4)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
