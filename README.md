@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/rokibhasansagar/libavif/pull/1) in [rokibhasansagar/libavif](https://github.com/rokibhasansagar/libavif)
-2. 🚀 Published release [Release v1.6.0-641](https://github.com/rokibhasansagar/Bento4/releases/tag/v1.6.0-641) in [rokibhasansagar/Bento4](https://github.com/rokibhasansagar/Bento4)
-3. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/Bento4/pull/1) in [rokibhasansagar/Bento4](https://github.com/rokibhasansagar/Bento4)
+1. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/libavif/pull/1) in [rokibhasansagar/libavif](https://github.com/rokibhasansagar/libavif)
+2. 💪 Opened PR [#1](https://github.com/rokibhasansagar/libavif/pull/1) in [rokibhasansagar/libavif](https://github.com/rokibhasansagar/libavif)
+3. 🚀 Published release [Release v1.6.0-641](https://github.com/rokibhasansagar/Bento4/releases/tag/v1.6.0-641) in [rokibhasansagar/Bento4](https://github.com/rokibhasansagar/Bento4)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
