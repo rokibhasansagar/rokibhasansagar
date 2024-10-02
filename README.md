@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/libavif/pull/1) in [rokibhasansagar/libavif](https://github.com/rokibhasansagar/libavif)
-2. 💪 Opened PR [#1](https://github.com/rokibhasansagar/libavif/pull/1) in [rokibhasansagar/libavif](https://github.com/rokibhasansagar/libavif)
-3. 🚀 Published release [Release v1.6.0-641](https://github.com/rokibhasansagar/Bento4/releases/tag/v1.6.0-641) in [rokibhasansagar/Bento4](https://github.com/rokibhasansagar/Bento4)
+1. 🎉 Merged PR [#114](https://github.com/rokibhasansagar/reflare-cdn-template/pull/114) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+2. 🎉 Merged PR [#115](https://github.com/rokibhasansagar/reflare-cdn-template/pull/115) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
+3. 🎉 Merged PR [#116](https://github.com/rokibhasansagar/reflare-cdn-template/pull/116) in [rokibhasansagar/reflare-cdn-template](https://github.com/rokibhasansagar/reflare-cdn-template)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
