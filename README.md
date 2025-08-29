@@ -45,8 +45,8 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/44) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
-2. 🎉 Merged PR [#16](https://github.com/rokibhasansagar/sharezone-vercel-index/pull/16) in [rokibhasansagar/sharezone-vercel-index](https://github.com/rokibhasansagar/sharezone-vercel-index)
+1. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/Round-Sync/pull/1) in [rokibhasansagar/Round-Sync](https://github.com/rokibhasansagar/Round-Sync)
+2. 💪 Opened PR [#44](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/44) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
 3. 🎉 Merged PR [#19](https://github.com/rokibhasansagar/ms365-vercel-index/pull/19) in [rokibhasansagar/ms365-vercel-index](https://github.com/rokibhasansagar/ms365-vercel-index)
 <!--END_SECTION:activity-->
 
