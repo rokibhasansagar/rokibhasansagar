@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/purge-artifacts-action/pull/1) in [rokibhasansagar/purge-artifacts-action](https://github.com/rokibhasansagar/purge-artifacts-action)
-2. 🗣 Commented on [#1](https://github.com/rokibhasansagar/purge-artifacts-action/pull/1#issuecomment-3289806364) in [rokibhasansagar/purge-artifacts-action](https://github.com/rokibhasansagar/purge-artifacts-action)
-3. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/Round-Sync/pull/1) in [rokibhasansagar/Round-Sync](https://github.com/rokibhasansagar/Round-Sync)
+1. 💪 Opened PR [#3](https://github.com/rokibhasansagar/purge-artifacts-action/pull/3) in [rokibhasansagar/purge-artifacts-action](https://github.com/rokibhasansagar/purge-artifacts-action)
+2. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/purge-artifacts-action/pull/1) in [rokibhasansagar/purge-artifacts-action](https://github.com/rokibhasansagar/purge-artifacts-action)
+3. 🗣 Commented on [#1](https://github.com/rokibhasansagar/purge-artifacts-action/pull/1#issuecomment-3289806364) in [rokibhasansagar/purge-artifacts-action](https://github.com/rokibhasansagar/purge-artifacts-action)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
