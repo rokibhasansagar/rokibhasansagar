@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/Round-Sync/pull/1) in [rokibhasansagar/Round-Sync](https://github.com/rokibhasansagar/Round-Sync)
-2. 💪 Opened PR [#44](https://github.com/rokibhasansagar/FFmpeg-Builds/pull/44) in [rokibhasansagar/FFmpeg-Builds](https://github.com/rokibhasansagar/FFmpeg-Builds)
-3. 🎉 Merged PR [#19](https://github.com/rokibhasansagar/ms365-vercel-index/pull/19) in [rokibhasansagar/ms365-vercel-index](https://github.com/rokibhasansagar/ms365-vercel-index)
+1. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/purge-artifacts-action/pull/1) in [rokibhasansagar/purge-artifacts-action](https://github.com/rokibhasansagar/purge-artifacts-action)
+2. 🗣 Commented on [#1](https://github.com/rokibhasansagar/purge-artifacts-action/pull/1#issuecomment-3289806364) in [rokibhasansagar/purge-artifacts-action](https://github.com/rokibhasansagar/purge-artifacts-action)
+3. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/Round-Sync/pull/1) in [rokibhasansagar/Round-Sync](https://github.com/rokibhasansagar/Round-Sync)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
