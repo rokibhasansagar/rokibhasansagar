@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2025 Update](https://github.com/rokibhasansagar/slimhub_actions/releases/tag/v25.42.5) in [rokibhasansagar/slimhub_actions](https://github.com/rokibhasansagar/slimhub_actions)
-2. ❌ Closed PR [#8](undefined) in [rokibhasansagar/slimhub_actions](https://github.com/rokibhasansagar/slimhub_actions)
-3. 🗣 Commented on [#72](https://github.com/ZeoRexDevs/Udeler_GUI/pull/72#issuecomment-3322310831) in [ZeoRexDevs/Udeler_GUI](https://github.com/ZeoRexDevs/Udeler_GUI)
+1. 🚀 Published release [Latest Release for Windows](https://github.com/rokibhasansagar/openvino/releases/tag/v2025.10.22) in [rokibhasansagar/openvino](https://github.com/rokibhasansagar/openvino)
+2. 🚀 Published release [2025 Update](https://github.com/rokibhasansagar/slimhub_actions/releases/tag/v25.42.5) in [rokibhasansagar/slimhub_actions](https://github.com/rokibhasansagar/slimhub_actions)
+3. ❌ Closed PR [#8](undefined) in [rokibhasansagar/slimhub_actions](https://github.com/rokibhasansagar/slimhub_actions)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
