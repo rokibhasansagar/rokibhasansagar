@@ -45,8 +45,8 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rokibhasansagar/aom-psy101-mirror/pull/1) in [rokibhasansagar/aom-psy101-mirror](https://github.com/rokibhasansagar/aom-psy101-mirror)
-2. 💪 Opened PR [#1](https://github.com/rokibhasansagar/aom-psy101-mirror/pull/1) in [rokibhasansagar/aom-psy101-mirror](https://github.com/rokibhasansagar/aom-psy101-mirror)
+1. 🗣 Commented on [#32](https://github.com/rokibhasansagar/reflare-mangadex-cdn/pull/32#issuecomment-4150711747) in [rokibhasansagar/reflare-mangadex-cdn](https://github.com/rokibhasansagar/reflare-mangadex-cdn)
+2. 🗣 Commented on [#18](https://github.com/rokibhasansagar/reflare-mangadex-cdn/pull/18#issuecomment-4150709487) in [rokibhasansagar/reflare-mangadex-cdn](https://github.com/rokibhasansagar/reflare-mangadex-cdn)
 3. ❌ Closed PR [#8](undefined) in [rokibhasansagar/slimhub_actions](https://github.com/rokibhasansagar/slimhub_actions)
 <!--END_SECTION:activity-->
 
